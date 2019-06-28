@@ -6,5 +6,5 @@ if w>1:
       break
   else:
     print("yes")
-  else:
+else:
     print("no")
